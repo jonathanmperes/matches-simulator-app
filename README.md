@@ -5,3 +5,5 @@ Este repositório foi organizado em algumas branches que representam as implemen
 
 1. Desenvolvimento Mobile Nativo Para Android
    - [realease/desenvolvimento-mobile-nativo-para-android](https://github.com/jonathanmperes/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
+2. Componentes, Layouts e UI/UX Em Apps Android
+   - [release/componentes-layouts-iu-ux-em-apps-android](https://github.com/jonathanmperes/matches-simulator-app/tree/releasecomponentes-layouts-ui-ux-em-apps-android)
